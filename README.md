@@ -1,3 +1,10 @@
-# 基于Java多线程与高并发
-### 1.Java 多线程基础
-[笔记链接](http://note.youdao.com/noteshare?id=bf9891cad36ff4da4a90dcf3b4f9a23f&sub=63FB0B56F94B4E8C9ACFD5F79FA1731C)
+# Java多线程与高并发专题
+
+## 主要内容
+
+* 线程池总结和代码练习
+* Synchronized 关键字原理理解、源码深入
+* ReentrantLock 关键字原理理解、源码深入
+* volatile 关键字原理理解、源码深入
+
+后续有时间会继续更新其它内容.....
